@@ -1,0 +1,30 @@
+{
+  "uuid": "e7837d20-0430-4588-8d04-89eb36bf008e",
+  "shortName": "T-",
+  "longName": "T-",
+  "companyName": "jdiez",
+  "versionCode": 1,
+  "versionLabel": "1.0.1",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "utcOffset": 0,
+    "nextLaunchTS": 1,
+    "flash": 2
+  },
+  "resources": {
+    "media": [
+        {
+            "type": "png",
+            "name": "IMAGE_SPACEX",
+            "file": "images/spacex.png"
+        },
+        {
+            "type": "font",
+            "name": "FONT_MONO_36",
+            "file": "fonts/UbuntuMono-B.ttf"
+        }
+    ]
+  }
+}
